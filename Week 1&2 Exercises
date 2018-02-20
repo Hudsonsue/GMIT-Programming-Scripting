@@ -1,4 +1,4 @@
-# Ian McLoughlin
+# Adapted from a program created by Ian McLoughlin
 # A program that displays Fibonacci numbers using people's names.
 
 def fib(n):
@@ -25,3 +25,14 @@ print("My surname is", name)
 print("The first letter", first, "is number", firstno)
 print("The last letter", last, "is number", lastno)
 print("Fibonacci number", x, "is", ans)
+
+# Week 1 Exercise
+# my name is Susan, so the first and last letter of my name (S+N = 19+14)
+# give the number 33, Fibonacci number is 3524578
+
+#Week 2 Exercise
+# My surname is Hudson
+# The first letter H is number 72
+# The last letter n is number 110
+# Fibonacci number 182 is 48558529144435440119720805669229197641
+# Ord() is returning the unicode value of the characters specified --in my case H and n. 
