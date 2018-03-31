@@ -13,7 +13,7 @@ while True:  #continues looping until
     i=i+20
     print (n) #temp to check it is looping correctly
     print(i) #temp to check it is looping correctly#temp
-    else:    
+  else:    
     print ("i", i)  
 
     
