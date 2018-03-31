@@ -3,6 +3,7 @@
 ## https://en.wikipedia.org/wiki/Factorial
 ## for positive integer n! is n multiplied by all positive integars less than it
 ## example 4! = 4*3*2*1 = 24
+## 0! = 1   
 
 def factorial(n):
     if n ==0:
