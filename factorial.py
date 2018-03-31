@@ -18,3 +18,5 @@ print ("the factorial of your integar is", factorial(n))
 print ("Check script outputs 120 for factorial 5 ---", factorial (5))
 print ("Check script outputs 5040 for factorial 7 ---", factorial (7))
 print ("Check script outputs 3628800 for factorial 10 ---", factorial (10))
+
+# output as expected for test
