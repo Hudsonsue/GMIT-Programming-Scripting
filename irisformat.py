@@ -12,6 +12,6 @@ with open ("irisdata.csv") as f:
          ## note - had been getting index error messages when running, attempted to tidy up at work but did not have access to dataset. 
          ## downloaded dataset again from a different source and re wrote script printing unformatted, column by column then formatting
          ## no index errors so am assuming problem was within original dataset not my script
-         ## this csv is ; seperated not 
+         ## this csv is ; seperated not ,
 
          ## www.saedsayad.com/datasets/Iris.xls, stripping out summaries and saving as csv
