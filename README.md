@@ -1,8 +1,9 @@
 # GMIT-Programming-Scripting
 Python exercises - *Programming and Scripting Module CRN 52167*
 
-This contains the attempts of Student **G00219132, Susan Hudson** for Python exercises as outlined below
-## Purpose ##
+## Purpose ## 
+This repository contains the attempts of Student **G00219132, Susan Hudson** for Python exercises as outlined below.
+
 This module also introduced students to use of [Visual Studio Code](https://code.visualstudio.com/) and the use of [Github](https://github.com/). Code has been transferred from visual studio code to github repository.
 
 ### Exercise files within this repository ###
