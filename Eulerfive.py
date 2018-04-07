@@ -6,9 +6,9 @@
 # This proved the most challenging of the problems set. There are so many possible approaches it 
 # became almost impossible. Many defined LCM/GCD but although I could (eventually) understand them
 # I wanted a solution that was more logic than maths! 
-# below if derived from various solutions in the project Euler discussion forums and stack overflow
+# below is derived from various solutions in the project Euler discussion forums and stack overflow
 # my personal challenge being to understand every line of code and to get there through as much trial and
-# error as I could. I still don't get why it was so hard!!
+# error as I could. I still don't get why it was so hard!! Hevily commented as I suspect I will need them if I look back.
 
 i=2520 ##as already know 2520 lcm of 1-10 can start at 2520
 
