@@ -17,9 +17,10 @@ def factorial(n):
         return n * factorial (n-1)
 
 n = int(input("Enter a positive integar: "))
-print ("the factorial of your integar is", factorial(n))
+print ("the factorial of your integar" ,n, "is", factorial(n))
 
 # Test the function with the following values, 5, 7, 10
+# as well as returning the factorial of the entered integar it will return the factorials of 5,7 and 10
 print ("the factorial of 5 is:", factorial (5))
 print ("the factorial of 7 is:", factorial (7))
 print ("the factorial of 10 is:", factorial (10))
