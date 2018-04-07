@@ -2,7 +2,7 @@
 Python exercises - *Programming and Scripting Module CRN 52167*
 
 ## Purpose ## 
-This repository contains the attempts of Student **G00219132, Susan Hudson** for Python exercises as outlined below.
+This repository contains the attempts of Student **G00219132, Susan Hudson** for Python exercises as outlined below. The module is delivered as part of the [Higher Diploma in Data Analytics] (https://www.gmit.ie/computing/higher-diploma-science-computing-data-analytics-ict-skills) in GMIT.
 
 This module also introduced students to use of [Visual Studio Code](https://code.visualstudio.com/) and the use of [Github](https://github.com/). Code has been transferred from visual studio code to github repository.
 
