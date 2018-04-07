@@ -2,10 +2,10 @@
 Python exercises - *Programming and Scripting Module CRN 52167*
 
 This contains the attempts of Student **G00219132, Susan Hudson** for Python exercises as outlined below
+## Purpose ##
+This module also introduced students to use of [Visual Studio Code](https://code.visualstudio.com/) and the use of [Github](https://github.com/). Code has been transferred from visual studio code to github repository.
 
-This module also introduced students to use of Visual Studio code and the use of Github. Code has been transferred from visual studio code to github repository.
-
-Exercise files within this repository
+###Exercise files within this repository###
 
 * collatz.py: This file contains the code for exercise 3 and the output of exercises 1 & 2 as comments in the file.
 * eulerfive.py: This file contains the code for exercise 4
@@ -23,3 +23,6 @@ Exercise files within this repository
 **Exercise 5:** Python script that reads the Iris data set in and prints the four numerical values on each row in a nice format.The Iris data set is widely used in data analytics and a wiki page devoted to the Iris data set can be found [here](https://en.wikipedia.org/wiki/Iris_flower_data_set)
 
 **Exercise 6:** Python script containing a function called factorial() that takes a single input/argument which is a positive integer and returns its factorial. Factorials are explained in the wiki page, [Factorial](https://en.wikipedia.org/wiki/Factorial)
+
+##Code language##
+All coding is [Python 3.6.5](https://www.python.org/)
