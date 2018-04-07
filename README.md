@@ -5,7 +5,7 @@ This contains the attempts of Student **G00219132, Susan Hudson** for Python exe
 ## Purpose ##
 This module also introduced students to use of [Visual Studio Code](https://code.visualstudio.com/) and the use of [Github](https://github.com/). Code has been transferred from visual studio code to github repository.
 
-###Exercise files within this repository###
+### Exercise files within this repository ###
 
 * collatz.py: This file contains the code for exercise 3 and the output of exercises 1 & 2 as comments in the file.
 * eulerfive.py: This file contains the code for exercise 4
@@ -24,5 +24,5 @@ This module also introduced students to use of [Visual Studio Code](https://code
 
 **Exercise 6:** Python script containing a function called factorial() that takes a single input/argument which is a positive integer and returns its factorial. Factorials are explained in the wiki page, [Factorial](https://en.wikipedia.org/wiki/Factorial)
 
-##Code language##
+## Code language ##
 All coding is [Python 3.6.5](https://www.python.org/)
