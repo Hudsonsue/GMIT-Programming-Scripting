@@ -1,5 +1,5 @@
 # iris dataset formatting exercise 6
-# G00219132 Susan Hudson
+# G00219132 Susan Hudson Programming and Scripting.
 # this script opens the Iris dataset csv file
 # for each line of the dataset it displays the first four values in columns of 5 characters width
 
