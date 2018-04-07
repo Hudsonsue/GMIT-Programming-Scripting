@@ -1,5 +1,6 @@
 # Adapted from a program created by Ian McLoughlin
 # A program that displays Fibonacci numbers using people's names.
+# it also introduced the ord function
 
 def fib(n):
   """This function returns the nth Fibonacci number."""
